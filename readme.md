@@ -4,7 +4,7 @@ marp: true
 # Descarte de carga para evitar sobrecarga AWS
 ###
 ###
-### Alunos Sabrina Coelho e Matheus
+### Alunos Sabrina Coelho e Matheus Rezende
 ### Prof. Roberto
 ---
 ## Definição e Conceito 
