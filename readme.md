@@ -61,5 +61,7 @@ O descarte de carga é aplicável em sistemas que enfrentam picos de tráfego ou
 O artigo enfatiza a importância de testar e monitorar continuamente os sistemas para garantir que as estratégias de descarte de carga sejam eficazes. Além disso, destaca que o descarte de carga deve ser parte de uma abordagem abrangente de gerenciamento de capacidade e resiliência do sistema.
 
 ---
+# Referências
+https://aws.amazon.com/pt/builders-library/using-load-shedding-to-avoid-overload/
 
 # Agradecemos!
