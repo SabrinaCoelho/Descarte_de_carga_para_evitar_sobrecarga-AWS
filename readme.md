@@ -15,7 +15,9 @@ O descarte de carga é a prática de rejeitar seletivamente requisições quando
 - Lei de escalabilidade universal
 - Lei de Amdahl
 ---
-![Grafico](https://ibb.co/0CR4JFY)
+![](aws_sreenshot.png)
+
+---
 
 O objetivo do descarte de carga é manter a latência baixa para as solicitações que o servidor decide aceitar, para que o serviço responda antes que o cliente atinja o tempo limite. Com essa abordagem, o servidor mantém alta disponibilidade para as solicitações que aceita e apenas a disponibilidade do tráfego em excesso é afetada.
 
