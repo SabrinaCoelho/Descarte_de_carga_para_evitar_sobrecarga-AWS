@@ -9,7 +9,7 @@ marp: true
 ---
 ## Definição e Conceito 
 O descarte de carga é a prática de rejeitar seletivamente requisições quando um sistema está próximo de sobrecarregar, permitindo que ele mantenha a capacidade de atender às requisições mais críticas. Isso ajuda a evitar que o sistema se torne completamente inoperante devido a uma sobrecarga.
-- Latência é p tempo que uma ação online leva para ser concluída, desde o envio da atividade até o seu destino. A latência é medida em milissegundos (ms).
+- Latência é o tempo que uma ação online leva para ser concluída, desde o envio da atividade até o seu destino. A latência é medida em milissegundos (ms).
 - Throughput é o número total de solicitações por segundo que estão sendo enviadas ao servidor.
 - Goodput é o subconjunto do throughput que é tratado sem erros e com latência baixa o suficiente para que o cliente faça uso da resposta.
 - Lei de escalabilidade universal
@@ -58,7 +58,7 @@ O descarte de carga é aplicável em sistemas que enfrentam picos de tráfego ou
 ---
 
 ## Outras Informações Importantes
-O artigo enfatiza a importância de testar e monitorar continuamente os sistemas para garantir que as estratégias de descarte de carga sejam eficazes. Além disso, destaca que o descarte de carga deve ser parte de uma abordagem abrangente de gerenciamento de capacidade e resiliência do sistema.
+O artigo disponibilizado enfatiza a importância de testar e monitorar continuamente os sistemas para garantir que as estratégias de descarte de carga sejam eficazes. Além disso, destaca que o descarte de carga deve ser parte de uma abordagem abrangente de gerenciamento de capacidade e resiliência do sistema.
 
 ---
 # Referências
